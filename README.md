@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **+60172730164**
-
 - ⚡ Fun fact **Finna make it out the hood 🕴️🙏**
 
 <h3 align="left">Connect with me:</h3>
