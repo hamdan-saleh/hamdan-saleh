@@ -13,7 +13,7 @@
 - Semester 2 first year
 
 - the subjects im taking this semester:
-  
+-------------------------------------------------------------
   SECI 1013-Discrete Structure-Section 05
 -------------------------------------------------------------
   SECP 1513-Technology and Information System-Section 01
